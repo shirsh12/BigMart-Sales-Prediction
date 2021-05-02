@@ -10,40 +10,32 @@ The data has missing values as some stores do not report all the data due to tec
 ##  Project Highlights
    1.Understanding the problem Statement
 
-   2.Importing the Dataset and performing basic EDA
+   2.Imputation of the Null-Values using pivot tables
 
-   3.Checking for the null values and describing the variables
+   3.Feature Engineering/ Creating New features
 
-    Imputation of the Null-Values using pivot tables
+   4.Using seaborn to understand the contribution of the categorical values on target variables
+  
+   5.Fixing categorical variables using Label and One hot encoding
 
-    Feature Engineering/ Creating New features
+   6. Applying Linear, Bayesian Regression models
 
-    Using seaborn to understand the contribution of the categorical values on target variables
+   7.Applying ensemble bagging models like Random Forest and Bagging models
 
-    Using boxplot for identifying outliers
+   8.Applying boosting models like Gradient Boosting Tree and XGboost
 
-    Fixing categorical variables using Label and One hot encoding
+   9.Applying Neural Network model MLPRegressor
 
-    Applying Linear, Bayesian Regression models
+   10.Defining function for HyperParameter tuning
 
-    Applying ensemble bagging models like Random Forest and Bagging models
+   11.Standardization and effect of Standardization
 
-    Applying boosting models like Gradient Boosting Tree and XGboost
+   12.Understanding Robust Scaler and Normalization
 
-    Applying Neural Network model MLPRegressor
+   13.Implementing Robust Scaler and Normalization
 
-    Making function for On spot-checking and selecting the best for hyperparameter tuning
+   14.Concluding the final model and predicting for the test data set
 
-    Defining function for HyperParameter tuning
-
-    Standardization and effect of Standardization
-
-    Understanding Robust Scaler and Normalization
-
-    Implementing Robust Scaler and Normalization
-
-    Concluding the final model and predicting for the test data set
-
-    Saving the model using Joblib
+   15.Saving the model using Joblib
 
 
