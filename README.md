@@ -8,11 +8,11 @@ Using this model, BigMart will try to understand the properties of products and 
 The data has missing values as some stores do not report all the data due to technical glitches. Hence, it will be required to treat them accordingly.
 
 ##  Project Highlights
-    Understanding the problem Statement
+   1.Understanding the problem Statement
 
-    Importing the Dataset and performing basic EDA
+   2.Importing the Dataset and performing basic EDA
 
-    Checking for the null values and describing the variables
+   3.Checking for the null values and describing the variables
 
     Imputation of the Null-Values using pivot tables
 
