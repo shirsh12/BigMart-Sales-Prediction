@@ -30,11 +30,9 @@ The data has missing values as some stores do not report all the data due to tec
 
    11.Standardization and effect of Standardization
 
-   12.Understanding Robust Scaler and Normalization
+   12.Implementing Robust Scaler and Normalization
 
-   13.Implementing Robust Scaler and Normalization
-
-   14.Concluding the final model and predicting for the test data set
+   13.Concluding the final model and predicting for the test data set
 
    15.Saving the model using Joblib
 
