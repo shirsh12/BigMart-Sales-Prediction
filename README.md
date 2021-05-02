@@ -18,7 +18,7 @@ The data has missing values as some stores do not report all the data due to tec
   
    5.Fixing categorical variables using Label and One hot encoding
 
-   6. Applying Linear, Bayesian Regression models
+   6.Applying Linear, Bayesian Regression models
 
    7.Applying ensemble bagging models like Random Forest and Bagging models
 
